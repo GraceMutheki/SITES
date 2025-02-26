@@ -24,5 +24,5 @@ while True:
     else:
         print("Too small")
 
-print(f"You got it in {trials} guesses")
+print(f"Congraturations You got it in {trials} guesses")
 
